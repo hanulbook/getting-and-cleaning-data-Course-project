@@ -1,7 +1,7 @@
 ---
 title: "Codebook for Getting and Cleaning Data Course Project"
-author: "Magnus Lyckå"
-date: '2014-11-24'
+author: "Pillkyu Yang"
+date: '2018-10-21'
 output: html_document
 ---
 
@@ -88,7 +88,7 @@ activity.name
 
 All data used in this project comes from
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-(Extracted 2014-11-23.)
+(Extracted 2018-10-21.)
 
 The content of the zip file has been unpacked and included in the git repo in the ["UCI HAR Dataset"](UCI%20HAR%20Dataset/) directory.
 (The downside of this is that the git repo gets very big and slow...)
